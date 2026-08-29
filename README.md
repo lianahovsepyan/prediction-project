@@ -20,3 +20,6 @@ This project uses Machine Learning (Linear Regression with scikit-learn) to pred
 ## Model Performance & Evaluation
 - Algorithm: LinearRegression from sklearn.linear_model.
 - Evaluation Metric: R2 score calculated using model.score(xtest, ytest).
+
+## Status
+Model successfully created and tested.
